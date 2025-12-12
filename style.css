@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: aquamarine;
+    border: 10px solid aquamarine;
+}
+ .icon {
+    text-align: center;
+    font-family: sans-serif;
+   color: purple;
+}
+footer {
+   background-color : white;
+}
+footer p {
+    background-color: green;
+}
+.night p {
+    background-color: lightgreen;
+}
+ a {
+    text-decoration: none;
+    border: blue;
+}
+.dot {
+    color: blue;
+}
